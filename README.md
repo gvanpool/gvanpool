@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @gvanpool
-- 👀 Intrest include music
+- 👀 Intrest include music, motorcycles, camping and fishing.
 - 🌱 I’m currently learning to play Standup Bass
-- 💞️ I’m looking to collaborate on Bluegrass Music
 - 📫 How to reach me gvanpool@yahoo.com 
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: One played Santa Claus at a mall in late 70's
 
 <!---
 gvanpool/gvanpool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
